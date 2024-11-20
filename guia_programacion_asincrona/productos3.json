@@ -1,0 +1,6 @@
+[
+    { "nombre": "Mesa", "tipoMadera": "Roble", "cantidad": 5, "precio": 200 },
+    { "nombre": "Silla", "tipoMadera": "Pino", "cantidad": 10, "precio": 75 },
+    { "nombre": "Puerta", "tipoMadera": "Cedro", "cantidad": 2, "precio": 300 }
+  ]
+  

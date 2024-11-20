@@ -1,0 +1,8 @@
+[
+    {"nombre": "Armario", "tipo": "Mueble", "precio": 150},
+    {"nombre": "Anaquel", "tipo": "Estantería", "precio": 90},
+    {"nombre": "Cama", "tipo": "Mueble", "precio": 200},
+    {"nombre": "Aparador", "tipo": "Mueble", "precio": 75},
+    {"nombre": "Mesa", "tipo": "Mueble", "precio": 120}
+  ]
+  
